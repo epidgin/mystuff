@@ -1,0 +1,13 @@
+diff --git a/working/m12-strings-english.txt b/working/m12-strings-english.txt
+index d675af8..48f4d98 100644
+--- a/working/m12-strings-english.txt
++++ b/working/m12-strings-english.txt
+@@ -292,7 +292,7 @@
+ ^L294^[1C FF 49 00 _L2679_][1C FF 44 00 _L2692_]@You don't seem to understand,[1B FF 0F 00][01 FF]  so I'll explain it to you.[02 FF]@When the world is changed to[01 FF]  blue,[1B FF 0F 00] a peaceful country can be[01 FF]  established.[02 FF]@Do you understand[01 FF]  now?[03 FF 00 00][04 FF _L2693_][05 FF _L2694_]^L2694^@Although you don't[01 FF]  understand now, some day[01 FF]  you will.[1D FF][00 FF]@I can tell by your face[01 FF]  that you're only pretending to[01 FF]  understand.[02 FF]@You just want something![1D FF][00 FF]
+ ^L295^[1C FF 49 00 _L2679_][1C FF 44 00 _L2697_]@You might misunderstand what[01 FF]  I have to say,[02 FF]@But Carpainter's voice affects[01 FF]  one's minds, like a hypnotist.[1D FF][00 FF]
+ ^L296^@We wanted to join the[01 FF]  Happy-Happy religious group.[02 FF]@We're a married couple from[01 FF]  Twoson.[1D FF][00 FF]
+-^L297^
++^L297^@Our child is waiting for us[01 FF]  in Twoson.[02 FF]@As a souvenir we'd like to[01 FF]  bring him some happiness.[1D FF][00 FF]
+ ^L298^
+ ^L299^
+ ^L300^[86 FF _L2678_][00 FF]
