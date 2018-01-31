@@ -1,13 +1,95 @@
+diff --git a/mystuff.txt b/mystuff.txt
+new file mode 100644
+index 0000000..1044d93
+--- /dev/null
++++ b/mystuff.txt
+@@ -0,0 +1,13 @@
++diff --git a/working/m12-strings-english.txt b/working/m12-strings-english.txt
++index d675af8..48f4d98 100644
++--- a/working/m12-strings-english.txt
+++++ b/working/m12-strings-english.txt
++@@ -292,7 +292,7 @@
++ ^L294^[1C FF 49 00 _L2679_][1C FF 44 00 _L2692_]@You don't seem to understand,[1B FF 0F 00][01 FF]  so I'll explain it to you.[02 FF]@When the world is changed to[01 FF]  blue,[1B FF 0F 00] a peaceful country can be[01 FF]  established.[02 FF]@Do you understand[01 FF]  now?[03 FF 00 00][04 FF _L2693_][05 FF _L2694_]^L2694^@Although you don't[01 FF]  understand now, some day[01 FF]  you will.[1D FF][00 FF]@I can tell by your face[01 FF]  that you're only pretending to[01 FF]  understand.[02 FF]@You just want something![1D FF][00 FF]
++ ^L295^[1C FF 49 00 _L2679_][1C FF 44 00 _L2697_]@You might misunderstand what[01 FF]  I have to say,[02 FF]@But Carpainter's voice affects[01 FF]  one's minds, like a hypnotist.[1D FF][00 FF]
++ ^L296^@We wanted to join the[01 FF]  Happy-Happy religious group.[02 FF]@We're a married couple from[01 FF]  Twoson.[1D FF][00 FF]
++-^L297^
+++^L297^@Our child is waiting for us[01 FF]  in Twoson.[02 FF]@As a souvenir we'd like to[01 FF]  bring him some happiness.[1D FF][00 FF]
++ ^L298^
++ ^L299^
++ ^L300^[86 FF _L2678_][00 FF]
 diff --git a/working/m12-strings-english.txt b/working/m12-strings-english.txt
-index d675af8..48f4d98 100644
+index d675af8..ce83d10 100644
 --- a/working/m12-strings-english.txt
 +++ b/working/m12-strings-english.txt
-@@ -292,7 +292,7 @@
+@@ -292,35 +292,35 @@
  ^L294^[1C FF 49 00 _L2679_][1C FF 44 00 _L2692_]@You don't seem to understand,[1B FF 0F 00][01 FF]  so I'll explain it to you.[02 FF]@When the world is changed to[01 FF]  blue,[1B FF 0F 00] a peaceful country can be[01 FF]  established.[02 FF]@Do you understand[01 FF]  now?[03 FF 00 00][04 FF _L2693_][05 FF _L2694_]^L2694^@Although you don't[01 FF]  understand now, some day[01 FF]  you will.[1D FF][00 FF]@I can tell by your face[01 FF]  that you're only pretending to[01 FF]  understand.[02 FF]@You just want something![1D FF][00 FF]
  ^L295^[1C FF 49 00 _L2679_][1C FF 44 00 _L2697_]@You might misunderstand what[01 FF]  I have to say,[02 FF]@But Carpainter's voice affects[01 FF]  one's minds, like a hypnotist.[1D FF][00 FF]
  ^L296^@We wanted to join the[01 FF]  Happy-Happy religious group.[02 FF]@We're a married couple from[01 FF]  Twoson.[1D FF][00 FF]
 -^L297^
+-^L298^
+-^L299^
 +^L297^@Our child is waiting for us[01 FF]  in Twoson.[02 FF]@As a souvenir we'd like to[01 FF]  bring him some happiness.[1D FF][00 FF]
- ^L298^
- ^L299^
++^L298^@This is the famous Happy-[01 FF]  Happyism counseling office.[02 FF]@When you obtain happiness[02 FF]@you should visit the Happy-[01 FF]  Happyism headquarters.[02 FF]@It's located at the[01 FF]  center of the village.[1D FF][00 FF]
++^L299^[7B FF][1C FF 44 00 _L2677_]@I not know you.[02 FF]@My kind are in[01 FF]  valley over there.[02 FF]@Bye bye.[1D FF][7C FF][00 FF]
  ^L300^[86 FF _L2678_][00 FF]
+ ^L301^[86 FF _L5294_][00 FF]
+-^L302^
++^L302^[01 FF]@The information on the back[01 FF]  of the <refreshing herb> reads[01 FF]  as follows:[02 FF]@If you catch a cold, if you're[01 FF]  ill, or if you can't seem to heal,[02 FF]@if you're poisoned, if you're[01 FF]  depressed, a refreshing herb[01 FF]  is the real deal.[02 FF]@I know, it seems pretty iffy,[01 FF]  but you should give it a try![00 FF]
+ ^L303^[86 FF _L2710_][00 FF]
+-^L304^
+-^L305^
+-^L306^
+-^L307^
+-^L308^
+-^L309^
+-^L310^
+-^L311^
+-^L312^
+-^L313^
+-^L314^
+-^L315^
+-^L316^
+-^L317^
+-^L318^
+-^L319^
+-^L320^
+-^L321^
+-^L322^
++^L304^[BC FF 23 00][1C FF 44 00 _L5050_]@Blue... blue.[02 FF]^L5050^[86 FF _L5049_][00 FF]
++^L305^[08 FF 0A 00][BC FF 6E 00][1C FF 44 00 _L5052_]@Blue... blue...[02 FF]^L5052^[86 FF _L5051_][00 FF]
++^L306^[FC FF 33 00][FC FF 3C 00][A1 FF 9B 01 55 00][9E FF][D8 FF 01 00 07 00][9E FF][A4 FF 9B 01]@What a horrible nightmare.[1B FF 14 00][01 FF]  I somehow woke up.[02 FF]@[0D FF],[1B FF 0F 00][01 FF]  let's be friends again.[02 FF]@Please answer me.[01 FF]  I promise to be good.[1B FF 3C 00][01 FF]  ...uh ...okay?[02 FF][C6 FF][A3 FF 9B 01][9E FF][A4 FF 9B 01]@Hah![01 FF]  I lied![1B FF 14 00][01 FF]  See you, sucker![02 FF][C6 FF][A3 FF 9B 01][09 FF 2C 00][FC FF 06 00][FC FF 34 00][00 FF]
++^L307^[1C FF 49 00 _L2683_][1C FF 44 00 _L2684_][1C FF 43 00 _L2685_]@I'm monitoring those who[01 FF]  don't pay at the food stand.[1C FF 78 00 _L2686_][1D FF][00 FF]
++^L308^[1C FF 49 00 _L2679_][1C FF 44 00 _L2691_]@One day, Mr. Carpainter[01 FF]  received a revelation.[02 FF]@He now speaks the real truth.[1D FF][00 FF]
++^L309^[1C FF 49 00 _L2695_][1C FF 44 00 _L2696_]@Mr. Carpainter communicates[01 FF]  with the divine,[02 FF]@so he is able to deliver[01 FF]  inspired messages.[1D FF][00 FF]
++^L310^[1C FF 49 00 _L2698_][1C FF 44 00 _L2699_]@When I painted everything blue,[01 FF]  as Mr. Carpainter said,[02 FF]@my wife who had run out on me[01 FF]  returned home![1D FF][00 FF]
++^L311^[1C FF D3 00 _L2700_][1C FF 44 00 _L2701_]@I think that those who won't[01 FF]  paint everything blue are[01 FF]  opposed to peace.[02 FF]@I want them all to listen,[1B FF 0F 00][01 FF]  even if it requires kicking[01 FF]  their butts.[1D FF][00 FF]
++^L312^[1C FF 49 00 _L2702_][1C FF 44 00 _L2703_]@Blue, blue![02 FF]@I wish for everything in this[01 FF]  world to become blue.[1D FF][00 FF]
++^L313^[1C FF 49 00 _L2704_][1C FF 44 00 _L2705_]@You want to talk to Mr.[01 FF]  Carpainter directly?[02 FF]@You must think you're pretty[01 FF]  important, and boy do you have[01 FF]  a lot of nerve![02 FF]@You deserve to be struck by[01 FF]  lightning.[1D FF][00 FF]
++^L314^[1C FF 49 00 _L2706_][1C FF 44 00 _L2707_][1C FF 0A 00 _L2708_][1C FF 7B 00 _L2709_]@(I'm just a plain ol' cow,[1B FF 0F 00][01 FF]  but Mr. Carpainter's messages[01 FF]  always mo[1B FF 05 00]o[1B FF 05 00]o[1B FF 05 00]ve me.)[1D FF][08 FF 7B 00][00 FF]
++^L315^[1C FF 44 00 _L2669_]@Excuse me, tourist.[02 FF]@I'm collecting donations to[01 FF]  help protect the world from[01 FF]  contaminants.[02 FF]@Donate whatever you can.[9C FF][03 FF 00 00][04 FF _L2670_][05 FF _L2671_]^L2671^[99 FF 01 00 00 00][81 FF _L2672_]@I'll be your shadow, then.[1D FF][C6 FF][80 FF _L2673_][00 FF]
++^L316^[1C FF BF 00 _L2712_][1C FF 44 00 _L2713_]@There's a place ahead that[01 FF]  can't be painted blue.[02 FF]@It's a strange and anti-blue[01 FF]  place.[02 FF]@I can't stop thinking about it...[01 FF]  and I can't even go near that[01 FF]  place.[1D FF][00 FF]
++^L317^@I heard many footprints exist[01 FF]  deep down in the east cave.[02 FF]@People call that place Lilliput[01 FF]  Steps, and it makes them feel[01 FF]  uneasy.[1D FF][00 FF]
++^L318^[1C FF 49 00 _L2679_][1C FF 44 00 _L2680_]@Mr. Carpainter wants a girl.[02 FF]@No, I don't mean it like that.[02 FF]@I meant he's looking for a girl[01 FF]  who can be the high priestess[01 FF]  of Happy-happyism.[02 FF]@I heard he's already got her.[1D FF][00 FF]
++^L319^[1C FF 49 00 _L2679_][1C FF 44 00 _L2681_][1C FF 02 00 _L2682_]@Psss psss Psss psss[02 FF]@That overweight kid helped me.[1B FF 14 00][01 FF]  We kidnapped [0E FF].[02 FF]@You know, she's hidden in a[01 FF]  mountain cabin.[02 FF]@Oh, [1B FF 14 00]oh![1B FF 14 00][01 FF]  Now I've done it![02 FF]@I thought you were one of us![1B FF 14 00][01 FF]   You know I was joking![02 FF]@Ha ha ha!...[01 FF]Just forget about this...[D4 FF 72 00][1D FF][08 FF 02 00][00 FF]
++^L320^@Hey [0D FF],[01 FF]   it's been a long time.[02 FF]@Since we last met,[01 FF]  the whole town has woken up.[02 FF]@The best happiness comes from[01 FF]  being free... you kids made me[01 FF]  realize that.[1D FF][00 FF]
++^L321^@(I am not your enemy.[02 FF]@I am just a plain ol' mole.[02 FF]@You are certainly stronger[01 FF]  than you were while wandering[01 FF]  around Onett.[02 FF]@Have you ever suddenly gotten[01 FF]  the <You Won> message[02 FF]@when you met a weak enemy?[02 FF]@That's sure-fire proof that[01 FF]  you've become stronger.[02 FF]@You don't want to waste your[01 FF] time fighting wimpy enemies,[01 FF]  do you?)[1D FF][00 FF]
++^L322^@(Peaceful Rest Valley ahead.[1B FF 14 00][01 FF]  Proceed through cave.)[1D FF][00 FF]
+ ^L323^[1C FF 44 00 _L2689_][86 FF _L2690_][00 FF]
+-^L324^
+-^L325^
++^L324^[1C FF 44 00 _L2716_]@(All of our products[01 FF]  are blessed.[1B FF 14 00][01 FF]             --Blue-Blue Drugstore)[1D FF][00 FF]
++^L325^[1C FF 44 00 _L2717_][1C FF 56 00 _L2718_][1C FF 0A 00 _L2719_]@...Who?...[02 FF]@...Are you [0D FF]?[02 FF]@[0D FF]![01 FF]  I'm so glad it's you.[02 FF]@I had a dream that a boy named[01 FF]  [0D FF] was my destiny.[02 FF]@I know it's hard to believe.[02 FF]^L2719^@Therefore,[1B FF 0F 00][01 FF] I knew you would rescue me.[02 FF]@If you didn't come,[1B FF 0F 00][01 FF] I would have had to try to bust [01 FF]  out of here.[02 FF]@You can't open the door.[02 FF]@You'll have to get the key[01 FF]  from Carpainter.[01 FF]  He's got it hidden away.[02 FF]@I heard Carpainter can control[01 FF]  lightning.[02 FF]@In that case,[1B FF 0F 00] you should wear[01 FF]  this <Franklin Badge>, okay?[02 FF][91 FF FF][82 FF _L2720_][01 FF][93 FF 00 C6][86 FF _L2238_][02 FF][08 FF 56 00][08 FF 2D 00][09 FF 7A 02][09 FF 7B 02]@I'll wait here until you return.[02 FF]@Come back here and get me out[01 FF]  once you defeat Carpainter.[02 FF]@Don't worry about me, just[01 FF]  kick butt like I know you can![1D FF][08 FF 0B 00][FC FF 05 00][00 FF]
+ ^L326^
+ ^L327^
+ ^L328^[86 FF _L2723_][00 FF]
+@@ -1025,8 +1025,8 @@
+ ^L1028^
+ ^L1029^[AB FF 00 00][87 FF][9A FF 99 00][81 FF _L2534_][80 FF _L2288_]
+ ^L1030^
+-^L1031^
+-^L1032^
++^L1031^[AB FF 00 00][87 FF][9A FF 8D 00][82 FF _L2288_]@Cows and carrots?...[02 FF]@That's a nutty combination![1D FF][00 FF]
++^L1032^[88 FF][AB FF 00 00][87 FF][9A FF D5 00][82 FF _L4121_][6D FF FF 00 D5 00]@([C2 FF][1A FF 05 00] used the[01 FF]  <Key to the cabin>)[02 FF][C6 FF][D4 FF 77 00][85 FF B4 01 06 00][1B FF 3C 00]@Thank you, [0D FF]![02 FF]@You're just like I imagined[01 FF]  you would be...[02 FF]@I'm sure that some people in[01 FF]  Twoson are worried about me..[02 FF]@Getting back there may be[01 FF]  dangerous,[02 FF]@but we can do it if we[01 FF]  combine our strength.[02 FF]@I'm able to use a little psychic[01 FF]  power that is actually pretty[01 FF]  deadly...[02 FF]@Let's head back to Twoson![02 FF][C6 FF][A1 FF B5 01 56 00][9E FF][85 FF B6 01 06 00][9E FF][85 FF B5 01 06 00][AE FF 02][C4 FF 00 0B][1B FF 78 00][1B FF 78 00][1B FF 78 00][1B FF 3C 00][C5 FF]@[0E FF] Joined you.[02 FF][C6 FF][08 FF 0D 00][08 FF C6 00][09 FF 76 00][08 FF 41 01][08 FF B1 02][08 FF E3 01][00 FF]
+ ^L1033^[86 FF _L3287_][9A FF AA 00][82 FF _L2155_][86 FF _L4115_][85 FF C2 01 0A 00][C6 FF][08 FF 1C 01][08 FF E2 01][00 FF]
+ ^L1034^[88 FF][AB FF 00 00][87 FF][9A FF B0 00][82 FF _L3562_][86 FF _L3563_][85 FF DF 01 06 00][08 FF 1D 02][00 FF]
+ ^L1035^[86 FF _L3564_][81 FF _L3565_][86 FF _L3566_][82 FF _L3562_][86 FF _L3567_][BE FF FF 00 18 00][81 FF _L3568_][BC FF 18 00][86 FF _L3569_][00 FF]
