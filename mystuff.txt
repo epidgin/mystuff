@@ -18,10 +18,10 @@ index 0000000..1044d93
 + ^L299^
 + ^L300^[86 FF _L2678_][00 FF]
 diff --git a/working/m12-strings-english.txt b/working/m12-strings-english.txt
-index d675af8..ce83d10 100644
+index d675af8..52394b7 100644
 --- a/working/m12-strings-english.txt
 +++ b/working/m12-strings-english.txt
-@@ -292,35 +292,35 @@
+@@ -292,69 +292,69 @@
  ^L294^[1C FF 49 00 _L2679_][1C FF 44 00 _L2692_]@You don't seem to understand,[1B FF 0F 00][01 FF]  so I'll explain it to you.[02 FF]@When the world is changed to[01 FF]  blue,[1B FF 0F 00] a peaceful country can be[01 FF]  established.[02 FF]@Do you understand[01 FF]  now?[03 FF 00 00][04 FF _L2693_][05 FF _L2694_]^L2694^@Although you don't[01 FF]  understand now, some day[01 FF]  you will.[1D FF][00 FF]@I can tell by your face[01 FF]  that you're only pretending to[01 FF]  understand.[02 FF]@You just want something![1D FF][00 FF]
  ^L295^[1C FF 49 00 _L2679_][1C FF 44 00 _L2697_]@You might misunderstand what[01 FF]  I have to say,[02 FF]@But Carpainter's voice affects[01 FF]  one's minds, like a hypnotist.[1D FF][00 FF]
  ^L296^@We wanted to join the[01 FF]  Happy-Happy religious group.[02 FF]@We're a married couple from[01 FF]  Twoson.[1D FF][00 FF]
@@ -77,11 +77,70 @@ index d675af8..ce83d10 100644
  ^L323^[1C FF 44 00 _L2689_][86 FF _L2690_][00 FF]
 -^L324^
 -^L325^
+-^L326^
+-^L327^
 +^L324^[1C FF 44 00 _L2716_]@(All of our products[01 FF]  are blessed.[1B FF 14 00][01 FF]             --Blue-Blue Drugstore)[1D FF][00 FF]
 +^L325^[1C FF 44 00 _L2717_][1C FF 56 00 _L2718_][1C FF 0A 00 _L2719_]@...Who?...[02 FF]@...Are you [0D FF]?[02 FF]@[0D FF]![01 FF]  I'm so glad it's you.[02 FF]@I had a dream that a boy named[01 FF]  [0D FF] was my destiny.[02 FF]@I know it's hard to believe.[02 FF]^L2719^@Therefore,[1B FF 0F 00][01 FF] I knew you would rescue me.[02 FF]@If you didn't come,[1B FF 0F 00][01 FF] I would have had to try to bust [01 FF]  out of here.[02 FF]@You can't open the door.[02 FF]@You'll have to get the key[01 FF]  from Carpainter.[01 FF]  He's got it hidden away.[02 FF]@I heard Carpainter can control[01 FF]  lightning.[02 FF]@In that case,[1B FF 0F 00] you should wear[01 FF]  this <Franklin Badge>, okay?[02 FF][91 FF FF][82 FF _L2720_][01 FF][93 FF 00 C6][86 FF _L2238_][02 FF][08 FF 56 00][08 FF 2D 00][09 FF 7A 02][09 FF 7B 02]@I'll wait here until you return.[02 FF]@Come back here and get me out[01 FF]  once you defeat Carpainter.[02 FF]@Don't worry about me, just[01 FF]  kick butt like I know you can![1D FF][08 FF 0B 00][FC FF 05 00][00 FF]
- ^L326^
- ^L327^
++^L1581^[09 FF 02 00][09 FF 03 00][A3 FF B7 01][9E FF][A4 FF B7 01]^L326^@Hey [0D FF]![1B FF 14 00][01 FF]You're just here to bother me,[01 FF]  aren't you.[02 FF]@You can call me Master Pokey,[02 FF]@since Mr. Carpainter made me[01 FF]  an important person in Happy-[01 FF]  Happyism.[02 FF]@You should join us,[1B FF 0F 00][01 FF]  but I know you won't...[1B FF 0F 00][01 FF]  I'm glad I joined...[02 FF]@I'm not going to fight you,[1B FF 0F 00][01 FF]  but these guys will...[1B FF 0F 00][01 FF]  Later potater...[02 FF][C6 FF][09 FF 0B 00][09 FF 2D 00][A3 FF B7 01][9E FF][A1 FF B8 01 52 00][A1 FF B9 01 53 00][A1 FF BA 01 54 00][9E FF][A4 FF B8 01][A4 FF B9 01][A4 FF BA 01][A4 FF B7 01][86 FF _L4119_][81 FF _L4120_][1B FF 01 00][A1 FF B8 01 29 00][A1 FF B9 01 29 00][A1 FF BA 01 29 00][A3 FF B7 01][1B FF 3C 00][FC FF 06 00][00 FF]
++^L327^[01 FF]@I wonder who made the bridge[01 FF]  impassable?[02 FF]@Why would someone do this?[1B FF 0f 00][01 FF]  Crud...[1D FF][00 FF]
  ^L328^[86 FF _L2723_][00 FF]
+-^L329^
+-^L330^
+-^L331^
++^L329^[1C FF 49 00 _L2711_]@Blue, blue...[02 FF]@Oops!  I won't say it again.[02 FF]@I fixed the bridge as a sign[01 FF]  of apology.[1B FF 14 00][01 FF]  I'm just trying to help.[1D FF][00 FF]
++^L330^@(I'm not an enemy.[02 FF]@I'm just a regular mole.[02 FF]@Would you like to know about [01 FF]  how to survive battles?)[22 FF][03 FF 00 00][04 FF _L2724_][05 FF _L2725_]^L2725^@(Well, you seem to know a lot[01 FF]  already, even if you don't look[01 FF]  like it.)[1D FF][00 FF]^L2724^@(You may have noticed that,[1B FF 0F 00][01 FF]  when you have been badly[01 FF]  hurt in battle,[02 FF]@you may survive a mortal[01 FF]  attack and still have 1 HP.[1B FF 14 00][01 FF]  If this has happened,[02 FF]@it was because of your Guts.[1B FF 0F 00][01 FF]  Your survival may depend on[01 FF]  your Guts level.[02 FF]@Also,[1B FF 0F 00]  more Guts helps you get[01 FF]  more SMAAAAASHing hits.[02 FF]@Beyond Guts,[1B FF 0F 00]  you should have[01 FF]  noticed that it takes some time[02 FF]@for damage to be taken from[01 FF]  you.[02 FF]@This is because of the rolling[01 FF]  action of your HP meter.[1B FF 0F 00]  Oops![1B FF 14 FF][01 FF]  I mean your life.[02 FF]@If an enemy deals mortal[01 FF]  damage to you,[1B FF 0F 00][01 FF]  but you defeat all enemies[02 FF]@before your life is gone,[1B FF 0F 00][01 FF]  you survive.[1B FF 1E 00][01 FF]  This is all I know.)[1D FF][00 FF]
++^L2717^@[0D FF]! You got the key![02 FF]@Are you hurt?[03 FF 00 00][04 FF _L2721_][05 FF _L2721_]^L2721^@I'm sorry for all the[01 FF]  trouble I've caused you.[1D FF][00 FF]^L331^@(Cross bridge to Happy-[01 FF]  Happy Village)[1D FF][00 FF]
+ ^L332^@(For some weird reason,[02 FF]@a pencil-shaped iron statue is[01 FF]  blocking the path.)[1D FF][00 FF]
+-^L333^
+-^L334^
+-^L335^
+-^L336^
+-^L337^
+-^L338^
+-^L339^
+-^L340^
++^L333^[1C FF BF 00 _L2156_][BC FF 01 00][86 FF _L2177_][81 FF _L2380_][C4 FF 00 9B]@You finally got here.[02 FF]@This is the second[01 FF]  <Your Sanctuary> location.[1B FF 14 00][01 FF]    But it's mine now.[02 FF]@Take it from me,[1B FF 1E 00][01 FF]  if you dare...[02 FF][86 FF _L2722_][81 FF _L2161_][85 FF C3 01 08 00][1B FF 78 00][08 FF BF 00][00 FF]
++^L334^[1C FF D6 00 _L2726_][1C FF 47 00 _L2727_][1C FF 7C 00 _L2728_][1C FF 28 02 _L2729_]@How can we defeat the[01 FF]  zombies?[1B FF 14 00][01 FF]  ...Oh... Uh... I just don't know![1D FF][00 FF]
++^L335^[1C FF 47 00 _L2730_][1C FF 7C 00 _L2731_][1C FF 28 02 _L2732_]@Why don't we get all the[01 FF]  zombies in this tent and then[01 FF]  set it on fire?[02 FF]@We may all get munched before[01 FF]  we have a chance to do[01 FF]  anything...[1D FF][00 FF]
++^L336^[1C FF D6 00 _L2733_][1C FF 47 00 _L2734_][1C FF 7C 00 _L2735_][1C FF 28 02 _L2736_]@I'm glad you're going to help us,[1B FF 14 00][01 FF]  but you're pretty young.[1D FF][00 FF]
++^L337^[1C FF D6 00 _L2737_][1C FF 47 00 _L2738_][1C FF 7C 00 _L2739_][1C FF 28 02 _L2740_][1C FF 0E 00 _L2741_]@The zombies are slowly[01 FF]  advancing toward the tent.[02 FF]@Everyone, I repeat--[1B FF 0F 00][01 FF]  the zombies are on the move![1D FF][00 FF]
++^L338^@I'll blame you for the rest of my[01 FF]  <life.>[1D FF][00 FF]
++^L339^@I'll blame you after my <death.>[1D FF][00 FF]
++^L340^@You're the enemy of all[01 FF]  zombies![02 FF]@You monster![1D FF][00 FF]
+ ^L341^@(There's no response.)[1D FF][00 FF]
+-^L342^
++^L342^@If I try to get away, my body[01 FF]  will just fall apart.[02 FF]@It's because I'm a zombie...[1D FF][00 FF]
+ ^L343^@Could... you... help me?[1B FF 14 00][01 FF]  ...Maybe not.[1D FF][00 FF]
+ ^L344^@You humans are such cowards![1D FF][00 FF]
+-^L345^
++^L345^@*Gasp* *Gasp*[1D FF][00 FF]
+ ^L346^@I don't care if I pass away...[02 FF]@Ha!  I'm dead already![1D FF][00 FF]
+-^L347^[1C FF 47 00 _L2779_][1C FF 7D 00 _L2780_][1C FF 7C 00 _L2781_][1C FF 28 02 _L2782_]@Frankly, I'm running scared.[02 FF]@I don't mean that I actually run[01 FF]  around.[1B FF 14 00]  I just mean I am[01 FF]  frightened.[02 FF]@Conditions in the town are[01 FF]  getting worse.[1D FF][00 FF]
++^L347^[1C FF 47 00 _L2779_][1C FF 7D 00 _L2780_][1C FF 7C 00 _L2781_][1C FF 28 02 _L2782_]@Frankly, I'm running scared.[02 FF]@I don't mean that I actually run[01 FF]  around.[1B FF 14 00] I just mean I am[01 FF]  frightened.[02 FF]@Conditions in the town are[01 FF]  getting worse.[1D FF][00 FF]
+ ^L348^[1C FF 47 00 _L2783_][1C FF 7D 00 _2784_][1C FF 28 02 _L2785_]@People used to call me evil, but[01 FF]  these zombies are much more[01 FF]  scary.[02 FF]@I left my wife and kids at home[01 FF]  to escape to this tent.[02 FF]@That's how scary the zombies[01 FF]  are.[1D FF][00 FF]
+-^L349^
+-^L350^
++^L349^@We painted over all the[01 FF]  damaged parts of the Sky[01 FF]  Runner.[02 FF]@Now I wonder how you start[01 FF]  this thing up?[1D FF][00 FF]
++^L350^@I want you to stay,[1B FF 0F 00][01 FF]  but if you can't ...so long![02 FF]@Thanks for every little ol' thing.[1D FF][00 FF]
+ ^L351^[1C FF 1D 02 _L2197_][86 FF _L3561_][1C FF 0E 00 _L2197_][C6 FF][1B FF 01 00][86 FF _L3571_][00 FF]
+-^L352^
+-^L353^
+-^L354^
+-^L355^
+-^L356^
++^L352^[BC FF 03 00][86 FF _L2177_][81 FF _L4164_][C6 FF][8D FF 01 00][C3 FF 00 02 E2 01][87 FF][88 FF][9A FF 01 00][81 FF _L4165_][89 FF][9A FF 02 00][81 FF _L4165_][89 FF][9A FF 08 00][81 FF _L4165_][C3 FF 03 02 E2 01][D8 FF 03 00 00 00][B2 FF 03 00 CB 00][1B FF 3C 00][B5 FF 03 00]@I can't see where the problem[01 FF]  is from this vantage point.[02 FF]@I need to be in the front.[1D FF][01 FF][C6 FF][1B FF 1E 00][00 FF]
++^L353^@(It's impossible to fix...[01 FF]  for the time being.)[1D FF][00 FF]
++^L354^[1C FF 7F 01 _L5083_][BB FF 3C][87 FF]@Welcome to the Threed Sunset[01 FF]  Hotel.[02 FF][86 FF _L5063_][04 FF _L5084_][05 FF _L5085_]^L5085^[86 FF _L5066_][00 FF]
++^L355^@I came from Fourside by bus.[02 FF]@Buffalo?[1B FF 14 00][01 FF]  Oh yeah, I saw lots.[1B FF 0F 00][01 FF]  It's awesome.[1D FF][00 FF]
++^L356^[1C FF 92 00 _L2787_]@A girl in Fourside called me.[02 FF]@There is a really popular band[01 FF]  there now.[02 FF]@I think they're called the[01 FF]  <Runway Fire.>[1D FF][00 FF]
+ ^L357^[86 FF _L5662_][A8 FF 01][87 FF][BD FF 1D _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5711_ _L5712_ _L5713_ _L5714_ _L5715_ _L5716_ _L5717_ _L5718_ _L5719_ _L5720_ _L5721_ _L5722_ _L5723_ _L5724_ _L5725_ _L5726_ _L5727_ _L5728_][00 FF]
+-^L358^
+-^L359^
++^L358^@A few days ago, the zombies[01 FF]  got some kids at this hotel.[02 FF][09 FF 4D 02][BC FF 01 00][86 FF _L2177_][82 FF _L2786_]@The boy had a red cap...[1B FF 1E 00][01 FF] or was it a blue cap?[1D FF][00 FF]
++^L359^[1C FF 47 00 _L2744_]@Be careful while walking around[01 FF]  outside,[1B FF 0F 00][01 FF]  especially near the graveyard.[1D FF][00 FF]
+ ^L360^[86 FF _L2745_][00 FF]
+ ^L361^[1C FF 47 00 _L2746_]@I'm stronger than a zombie,[1B FF 0F 00] but[01 FF]  a bunch of zombies ganged up[01 FF]  on me.[1D FF][00 FF]
+ ^L362^[08 FF E4 00][86 FF _L5392_][09 FF E4 00][00 FF]
 @@ -1025,8 +1025,8 @@
  ^L1028^
  ^L1029^[AB FF 00 00][87 FF][9A FF 99 00][81 FF _L2534_][80 FF _L2288_]
